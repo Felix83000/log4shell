@@ -412,7 +412,6 @@ NCSC-NL will use the following status:
 | ESET            | All products | Unknown | Not vuln | |[source](https://forum.eset.com/topic/30691-log4j-vulnerability/) |
 | Esri | ArcGIS Enterprise and related products | < 10.8.0 | Vulnerable |  | [source](https://www.esri.com/arcgis-blog/products/arcgis-enterprise/administration/arcgis-software-and-cve-2021-44228-aka-log4shell-aka-logjam/) |
 | EVL Labs | JGAAP | <8.0.2 | Fix | | [source](https://github.com/evllabs/JGAAP/releases/tag/v8.0.2) |
-| eXtreme Hosting | All products | Unknown | Not vuln | |[source](https://extremehosting.nl/log4shell-log4j/) |
 
 ### F
 
@@ -886,7 +885,6 @@ Forcepoint |Security Manager (Web, Email and DLP)                               
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 | TheHive | Cortex | all | Not vuln | |[source](https://kb.vmware.com/s/article/87068) |
 | TheHive | TheHive | all | Not vuln | |[source](https://kb.vmware.com/s/article/87068) |
-| TrendMicro | All Products |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
 
 ### U
 
@@ -945,6 +943,7 @@ Forcepoint |Security Manager (Web, Email and DLP)                               
 
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| [Watcher](https://github.com/thalesgroup-cert/)         | [Watcher](https://github.com/thalesgroup-cert/Watcher) | all | Not vuln | | [source](https://twitter.com/felix_hrn/status/1470387338001977344)
 | WitFoo          | WitFoo Precinct | 6.x             | Fix             | WitFoo Streamer & Apache Kafka Docker containers are/were vulnerable | [source](https://www.witfoo.com/blog/emergency-update-for-cve-2021-44228-log4j/)|
 | Wowza | Wowza Streaming Engine | 4.7.8, 4.8.x | Workaround | |[source](https://www.wowza.com/docs/known-issues-with-wowza-streaming-engine#log4j2-cve) |
 
